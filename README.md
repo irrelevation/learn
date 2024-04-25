@@ -41,6 +41,8 @@ Create a queue that
 - When they call the promise factory, your job gets to execute.
 - The async request queue can only have up to 3 running jobs at a time.
 
+## 4. HTTP Server from scratch
+
 ## 4. A large scale project
 
 Choose a project that forces you to implement some patterns, eg:
