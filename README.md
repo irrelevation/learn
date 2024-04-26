@@ -15,9 +15,22 @@ Solve some [Advent of Code](https://adventofcode.com/) challenges, to learn abou
 
 Take a look at other peoples solutions as well!
 
-Implement different data structures and algorithms.
+## 2. data structures, algorithms & patterns
 
-## 2. Websocket Server
+### Data Structures
+
+### Algorithms
+
+- binary search
+- quicksort
+
+### Patterns
+
+- Pub / Sub
+
+## 4. Small Projects
+
+### Websocket Server
 
 Create a chat room client that takes connections.
 
@@ -32,7 +45,7 @@ Teaches you about:
 - the module system
 - async
 
-## 3. Async Request Queue
+### Async Request Queue
 
 Create a queue that
 
@@ -41,9 +54,9 @@ Create a queue that
 - When they call the promise factory, your job gets to execute.
 - The async request queue can only have up to 3 running jobs at a time.
 
-## 4. HTTP Server from scratch
+### Basic HTTP Server
 
-## 4. A large scale project
+## 5. A large scale project
 
 Choose a project that forces you to implement some patterns, eg:
 
