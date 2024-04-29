@@ -23,6 +23,7 @@ Take a look at other peoples solutions as well!
 
 - binary search
 - quicksort
+- Monte Carlo Tree Search
 
 ### Patterns
 
