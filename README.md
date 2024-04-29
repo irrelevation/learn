@@ -59,14 +59,21 @@ Create a queue that
 
 ## 5. A large scale project
 
-Choose a project that forces you to implement some patterns, eg:
+Choose a project that forces you to implement some patterns.
 
-- An interpreter
-  - [Crafting interpreters](http://craftinginterpreters.com/)
-  - [Writing an interpreter in Go](https://interpreterbook.com/)
-- A rendering Framework
-  - [Building an SSR framework using vite](https://zach.codes/building-an-ssr-framework-using-vite-prisma/)
-  - [Daniel Roe: Building for the Edge - Crafting a Next-Gen Framework](https://www.youtube.com/watch?v=hdHLU0qHKhA)
+### An interpreter
+
+- [Crafting interpreters](http://craftinginterpreters.com/)
+- [Writing an interpreter in Go](https://interpreterbook.com/)
+
+### A compiler
+
+- [Writing a compiler in Go]
+
+### A rendering Framework
+
+- [Building an SSR framework using vite](https://zach.codes/building-an-ssr-framework-using-vite-prisma/)
+- [Daniel Roe: Building for the Edge - Crafting a Next-Gen Framework](https://www.youtube.com/watch?v=hdHLU0qHKhA)
 
 # References
 
