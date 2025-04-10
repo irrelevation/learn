@@ -19,11 +19,15 @@ Take a look at other peoples solutions as well!
 
 ### Data Structures
 
+- B-Tree
+- B+Tree
+
 ### Algorithms
 
 - binary search
 - quicksort
 - Monte Carlo Tree Search
+- Beam Search
 
 ### Patterns
 
@@ -56,6 +60,8 @@ Create a queue that
 - The async request queue can only have up to 3 running jobs at a time.
 
 ### Basic HTTP Server
+
+- [computerphile video](https://www.youtube.com/watch?v=7GBlCinu9yg)
 
 ## 5. A large scale project
 
